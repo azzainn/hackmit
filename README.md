@@ -12,11 +12,11 @@ Our project, in alignment with Panera's core beliefs, looks to make use of techn
 ## Instructions
 
 Clone the repo and make sure the following libraries are installed:
-requests
-pandas
-bs4
-shapely
-geopandas
-matplotlib
+requests,
+pandas,
+bs4,
+shapely,
+geopandas,
+matplotlib,
 
 Run the program and you will receive a CSV with the most optimized latitudes/longitudes and an image displaying the appropiate coordinates.
