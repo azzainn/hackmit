@@ -1,7 +1,7 @@
 # Location Optimizer
 Finds optimal location for food hub integration in food-insecure countries
 
-![locations](https://user-images.githubusercontent.com/79682890/193445018-863f3480-41fd-4097-bd14-18240e3d75c6.jpg)
+![Image 10-2-22 at 4 02 AM](https://user-images.githubusercontent.com/79682890/193445079-22605745-c1ec-4833-9dce-c35bf9ac90a7.jpg)
 
 ## Introduction
 
