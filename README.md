@@ -17,6 +17,6 @@ pandas,
 bs4,
 shapely,
 geopandas,
-matplotlib,
+matplotlib
 
 Run the program and you will receive a CSV with the most optimized latitudes/longitudes and an image displaying the appropiate coordinates.
