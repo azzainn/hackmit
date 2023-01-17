@@ -11,7 +11,7 @@ Our project, in alignment with Panera's core beliefs, looks to make use of techn
 
 ## Instructions
 
-Clone the repo and make sure the following libraries are installed:
+Clone the repo and install the following libraries:
 requests,
 pandas,
 bs4,
